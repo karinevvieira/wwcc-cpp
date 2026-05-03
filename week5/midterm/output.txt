@@ -1,0 +1,245 @@
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 1
+Enter the product name: Laptop
+SKU: laphp
+Quantity: 15
+Price: 999.99
+Reorder threshold: 3
+Product added successfully! 
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 1
+Enter the product name: mouse pad
+SKU: msphp
+Quantity: 100
+Price: 10.99
+Reorder threshold: 10
+Product added successfully! 
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 1
+Enter the product name: bottle
+SKU: btl32oz
+Quantity: 50
+Price: 25.50
+Reorder threshold: 5
+Product added successfully! 
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 1
+Enter the product name: pen
+SKU: penblk
+Quantity: 200
+Price: 1.99
+Reorder threshold: 20
+Product added successfully! 
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 4
+
+-----------------------------
+----- Inventory Summary -----
+------------------------------
+Total Units: 365
+Total Value: $17771.8
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 6
+Enter product name to search: laptop
+
+Product found:
+Name: Laptop
+SKU: laphp
+Quantity: 15
+Price: $999.99
+Reorder Point: 3
+Sales Count: 0
+-----------------------------
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 5
+
+------------------------------
+---------SALES REPORT---------
+------------------------------
+Product: Laptop
+  - SKU: laphp
+  - Units Sold: 0
+  - Revenue: $0.00
+------------------------------
+Product: mouse pad
+  - SKU: msphp
+  - Units Sold: 0
+  - Revenue: $0.00
+------------------------------
+Product: bottle
+  - SKU: btl32oz
+  - Units Sold: 0
+  - Revenue: $0.00
+------------------------------
+Product: pen
+  - SKU: penblk
+  - Units Sold: 0
+  - Revenue: $0.00
+------------------------------
+Total Store Revenue: $0.00
+
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 3
+Enter the SKU to search for the product: laphp
+Enter amount sold: 10
+Sale registered
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 3
+Enter the SKU to search for the product: mshp
+Product with SKU: mshp not found. 
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 3
+Enter the SKU to search for the product: penblk
+Enter amount sold: 50
+Sale registered
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 5
+
+------------------------------
+---------SALES REPORT---------
+------------------------------
+Product: Laptop
+  - SKU: laphp
+  - Units Sold: 10
+  - Revenue: $9999.90
+------------------------------
+Product: mouse pad
+  - SKU: msphp
+  - Units Sold: 0
+  - Revenue: $0.00
+------------------------------
+Product: bottle
+  - SKU: btl32oz
+  - Units Sold: 0
+  - Revenue: $0.00
+------------------------------
+Product: pen
+  - SKU: penblk
+  - Units Sold: 50
+  - Revenue: $99.50
+------------------------------
+Total Store Revenue: $10099.40
+
+-----------------------
+  Store Items Manager
+-----------------------
+Please select one of the following options: 
+ 1. Add a product to the list. 
+ 2. Update stock quatities. 
+ 3. Register sale. 
+ 4. Calculate total inventory value. 
+ 5. Generate sales report. 
+ 6. Search product by name. 
+ 7. Exit Manager. 
+ Enter your choice (1 - 7): 7
+Exiting Program...
