@@ -1,0 +1,88 @@
+-------------------------
+LIBRARY MANAGEMENT SYSTEM
+-------------------------
+Library: The Real Gabinete Portugues de Leitura
+
+1. Add Book
+2. Display All Books
+3. Search by Author
+4. Search by Title
+5. Show Stats
+6. Exit
+
+Enter your choice: 1
+
+Enter book title: 1984
+Enter author name: George Orwell
+Enter publication year: 1949
+Enter ISBN: 9780451524935
+Enter author birth year: 1903
+Book added successfully!
+
+Enter your choice: 1
+
+Enter book title: Animal Farm
+Enter author name: George Orwell
+Enter publication year: 1945
+Enter ISBN: 9780451526342
+Enter author birth year: 1903
+Book added successfully!
+
+Enter your choice: The Doors of Perception
+
+That was not a valid number. Try Again!
+
+Enter your choice: 1
+Enter book title: The Doors of Perception
+Enter author name: Aldos Huxley
+Enter publication year: 1954
+Enter ISBN: 987415668514
+Enter author birth year: 1894
+Book added successfully!
+
+Enter your choice: 2
+
+CATALOG: 
+1. "1984" (1949)
+Author : George Orwell(born 1903)
+ISBN: 9780451524935
+
+2. "Animal Farm" (1945)
+Author : George Orwell(born 1903)
+ISBN: 9780451526342
+
+3. "The Doors of Perception" (1954)
+Author : Aldos Huxley(born 1894)
+ISBN: 987415668514
+
+
+Enter your choice: 4
+
+Enter title keyword: the Doors OF PercepTION
+Books containing "the Doors OF PercepTION":
+"The Doors of Perception" (1954)
+Author : Aldos Huxley(born 1894)
+ISBN: 987415668514
+
+
+Enter your choice: 3
+
+Enter author name: George ORWELL
+Search by author George ORWELL:
+"1984" (1949)
+Author : George Orwell(born 1903)
+ISBN: 9780451524935
+
+"Animal Farm" (1945)
+Author : George Orwell(born 1903)
+ISBN: 9780451526342
+
+
+Enter your choice: 5
+
+Library Stats
+Total Books in catalog: 3
+
+Enter your choice: 6
+
+Exiting program...
