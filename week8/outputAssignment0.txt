@@ -1,0 +1,351 @@
+DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 1
+
+Enter recipe name: Spicy Honey Dip
+How many ingredients?: 4
+Ingredient 1: 1 tbsp Red pepper flakes
+Ingredient 2: 1 1/2 cups Mascarpone cheese
+Ingredient 3: 2 tbsp Honey
+Ingredient 4: 1 tsp Salt
+
+How many steps? 2
+Step 1: Mix all the ingredients together
+Step 2: Decorate with Honey and red pepper flakes on top
+
+Recipe added successfully!
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 1
+
+Enter recipe name: Shredded Chicken Dip
+How many ingredients?: 5
+Ingredient 1: 1 cup Shredded Chicken
+Ingredient 2: 3/4 cup Green onions
+Ingredient 3: 1 tsp Garlic Powder
+Ingredient 4: 1 tsp Black Pepper
+Ingredient 5: 2 cups Ricotta cheese
+
+How many steps? 2
+Step 1: Mix all the ingredients together
+Step 2: Decorate with green onions, chopped nuts, and a drizzle of Olive oil
+
+Recipe added successfully!
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 1
+
+Enter recipe name: Bacon and Scallions Dip
+How many ingredients?: 6
+Ingredient 1: 70g Bacon
+Ingredient 2: 1 scallion
+Ingredient 3: 2 cups Cream cheese
+Ingredient 4: 1 1/4 tsp Salt
+Ingredient 5: 1 tsp Black Pepper
+Ingredient 6: 1 tsp garlic Powder
+
+How many steps? 2
+Step 1: Fry the bacon and green onions until golden brown
+Step 2: Mix all the ingredients together (separate the bacon fat)
+
+Recipe added successfully!
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 2
+
+-- All Recipes --
+
+Recipe 1: Spicy Honey Dip
+Ingredients: 
+- 1 tbsp Red pepper flakes
+- 1 1/2 cups Mascarpone cheese
+- 2 tbsp Honey
+- 1 tsp Salt
+
+Steps:
+- Mix all the ingredients together
+- Decorate with Honey and red pepper flakes on top
+
+Recipe 2: Shredded Chicken Dip
+Ingredients: 
+- 1 cup Shredded Chicken
+- 3/4 cup Green onions
+- 1 tsp Garlic Powder
+- 1 tsp Black Pepper
+- 2 cups Ricotta cheese
+
+Steps:
+- Mix all the ingredients together
+- Decorate with green onions, chopped nuts, and a drizzle of Olive oil
+
+Recipe 3: Bacon and Scallions Dip
+Ingredients: 
+- 70g Bacon
+- 1 scallion
+- 2 cups Cream cheese
+- 1 1/4 tsp Salt
+- 1 tsp Black Pepper
+- 1 tsp garlic Powder
+
+Steps:
+- Fry the bacon and green onions until golden brown
+- Mix all the ingredients together (separate the bacon fat)
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 6
+
+Enter recipe name to update: Bacon and scallions dip
+Recipe found! What would you like to update?
+1. Name
+2. Ingredients
+3. Steps
+Enter your choice: 3
+
+1. Add a step
+2. Remove a step
+Enter your choice: 1
+
+Enter new step: Decorate with bacon bits and a drizzle of the bacon fat
+Step added successfully!
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 6
+
+Enter recipe name to update: Shredded chicken DIP
+Recipe found! What would you like to update?
+1. Name
+2. Ingredients
+3. Steps
+Enter your choice: 2
+
+1. Add an ingredient
+2. Remove an ingredient
+Enter your choice: 1
+
+Enter new ingredient: 1/2 tsp Nuts
+Ingredient added successfully!
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 6
+
+Enter recipe name to update: Spicy honey dip
+Recipe found! What would you like to update?
+1. Name
+2. Ingredients
+3. Steps
+Enter your choice: 2
+1. Add an ingredient
+2. Remove an ingredient
+Enter your choice: 2
+
+Enter ingredient to remove: 3
+Ingredient removed successfully!
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 2
+
+-- All Recipes --
+
+Recipe 1: Spicy Honey Dip
+Ingredients: - 1 tbsp Red pepper flakes
+- 1 1/2 cups Mascarpone cheese
+- 1 tsp Salt
+
+Steps:
+- Mix all the ingredients together
+- Decorate with Honey and red pepper flakes on top
+
+Recipe 2: Shredded Chicken Dip
+Ingredients: - 1 cup Shredded Chicken
+- 3/4 cup Green onions
+- 1 tsp Garlic Powder
+- 1 tsp Black Pepper
+- 2 cups Ricotta cheese
+- 1/2 tsp Nuts
+
+Steps:
+- Mix all the ingredients together
+- Decorate with green onions, chopped nuts, and a drizzle of Olive oil
+
+Recipe 3: Bacon and Scallions Dip
+Ingredients: - 70g Bacon
+- 1 scallion
+- 2 cups Cream cheese
+- 1 1/4 tsp Salt
+- 1 tsp Black Pepper
+- 1 tsp garlic Powder
+
+Steps:
+- Fry the bacon and green onions until golden brown
+- Mix all the ingredients together (separate the bacon fat)
+- Decorate with bacon bits and a drizzle of the bacon fat
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 3
+
+Enter recipe name to search: Bacon and scallions dipp
+Recipe not found.
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: Bacon and scallions dip
+That was not a valid number. Try Again!
+
+Enter a valid number: 4
+
+Enter recipe name to delete: spicy HONEY dip
+Recipe deleted successfully!
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 5
+
+Total number of recipes: 2
+Average number of ingredients per recipe: 6
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 2
+
+-- All Recipes --
+
+Recipe 1: Shredded Chicken Dip
+Ingredients: - 1 cup Shredded Chicken
+- 3/4 cup Green onions
+- 1 tsp Garlic Powder
+- 1 tsp Black Pepper
+- 2 cups Ricotta cheese
+- 1/2 tsp Nuts
+
+Steps:
+- Mix all the ingredients together
+- Decorate with green onions, chopped nuts, and a drizzle of Olive oil
+
+Recipe 2: Bacon and Scallions Dip
+Ingredients: - 70g Bacon
+- 1 scallion
+- 2 cups Cream cheese
+- 1 1/4 tsp Salt
+- 1 tsp Black Pepper
+- 1 tsp garlic Powder
+
+Steps:
+- Fry the bacon and green onions until golden brown
+- Mix all the ingredients together (separate the bacon fat)
+- Decorate with bacon bits and a drizzle of the bacon fat
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 9
+Invalid choice! Please try again.
+
+ DYNAMIC RECIPE MANAGER
+-----------------------
+1. Add a new recipe
+2. Display all recipes
+3. Search for a recipe
+4. Delete a recipe
+5. Show statistics
+6. Update a recipe
+7. Exit
+Enter your choice: 7
+Exiting Recipe Manager...
