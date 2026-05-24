@@ -1,0 +1,6 @@
+The stringstream class is one of C++'s most versatile tools for text processing
+Always validate the file file before processing, and provide meaningfull error messages
+If you know approximate data size, reserve vector space to avoid reallocations
+Always verify that file operations succeed before proceeding
+Use relative paths or configuration files for file locations
+Handle edge cases such as empty files, single-line files, and files wuth only whitespace
