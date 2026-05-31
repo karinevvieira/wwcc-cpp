@@ -1,0 +1,28 @@
+------------------------------
+ === Payroll by Department === 
+------------------------------
+
+ === Engineering Department ===
+David Park             50.00 hrs @ $38.00/hr = $2090.00
+Alice Chen             45.00 hrs @ $42.00/hr = $1995.00
+Department Subtotal: $4085.00
+------------------------------
+
+ === Sales Department ===
+Frank Torres           44.50 hrs @ $45.00/hr = $2103.75
+Bob Martinez           38.00 hrs @ $28.00/hr = $1064.00
+Department Subtotal: $3167.75
+------------------------------
+
+ === HR Department ===
+Grace Kim              33.50 hrs @ $33.00/hr = $1105.50
+Carol Singh            32.50 hrs @ $35.00/hr = $1137.50
+Department Subtotal: $2243.00
+------------------------------
+
+ === Operations Department ===
+Henry Okafor           55.00 hrs @ $29.00/hr = $1812.50
+Emma Wilson            29.00 hrs @ $30.00/hr = $870.00
+Department Subtotal: $2682.50
+------------------------------
+
